@@ -1,0 +1,20 @@
+.cv {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.bloc {
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #1e3a8a;
+}
+
+h2 {
+  color: #1e3a8a;
+  border-bottom: 2px solid #1e3a8a;
+}
